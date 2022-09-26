@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.button {
+  background-color: #382f5a;
+  width: 138px;
+  height: 40px;
+  border-radius: 10px;
+  border: solid 1px whitesmoke;
+  cursor: pointer;
+  color: whitesmoke;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+button:hover {
+  background-color: green;
+  outline: none;
+}

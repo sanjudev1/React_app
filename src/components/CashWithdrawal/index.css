@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.name {
+  display: flex;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c7d2fe;
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  text-align: center;
+  margin-right: 20px;
+}
+.card {
+  background-color: #150b3e;
+  background-size: cover;
+  border-radius: 15px;
+  width: 30%;
+  height: 70%;
+
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  width: 100vw;
+  height: 100vh;
+  padding: 20px;
+  background-size: cover;
+  font-family: 'Roboto';
+}
+.balance {
+  display: flex;
+  justify-content: space-between;
+}
+h1 {
+  display: flex;
+  color: whitesmoke;
+}
+.styling {
+  display: flex;
+  color: whitesmoke;
+}
+p {
+  display: flex;
+  color: #585076;
+}
+.btnContainer {
+  display: flex;
+  flex-wrap: wrap;
+  color: whitesmoke;
+  justify-content: space-around;
+  list-style-type: none;
+}
